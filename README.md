@@ -9,7 +9,7 @@
 * License: GPLv3
 * License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-A WooCommerce plugin that shows the attribute options of Variable Products as a sequential step-by-step process, with a progress indicator, ensuring users select options in order.
+A WooCommerce plugin that displays variable product options as a step-by-step process with a progress indicator, ensuring sequential selection.
 
 ## Description
 
