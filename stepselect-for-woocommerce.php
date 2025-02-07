@@ -2,6 +2,7 @@
 /*
 Plugin Name: StepSelect for WooCommerce
 Plugin URI: https://wordpress.org/plugins/stepselect-for-woocommerce
+Requires Plugins: woocommerce
 Description: A WooCommerce plugin that shows the attribute options of Variable Products sequentially with a progress indicator, ensuring users select options in order.
 Author: Senff
 Author URI: http://www.senff.com
