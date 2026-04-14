@@ -4,7 +4,7 @@ Donate link: http://donate.senff.com
 Tags: variable product, attributes, progress, steps, sequentially
 Plugin URI: https://wordpress.org/plugins/stepselect-for-woocommerce
 Requires at least: 6.0
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 1.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -57,7 +57,7 @@ It's possible that your theme or another plugin is part of the issue. This plugi
 If you're not sure how to use this, or you're running into any issues with it, post a message on the plugin's [WordPress.org support forum](https://wordpress.org/support/plugin/stepselect-for-woocommerce).
 
 = I've noticed that something doesn't work right, or I have an idea for improvement. How can I report this? =
-Plugin Status Snapshotter's community support forum at https://wordpress.org/support/plugin/stepselect-for-woocommerce would a good place, though if you want to add all sorts of -technical- details, it's best to report it on the plugin's Github page at https://github.com/senff/WordPress-StepSelect-for-Woocommerce/issues . This is also where I consider code contributions.
+Stepselect for WooCommerce's community support forum at https://wordpress.org/support/plugin/stepselect-for-woocommerce would a good place, though if you want to add all sorts of -technical- details, it's best to report it on the plugin's Github page at https://github.com/senff/WordPress-StepSelect-for-Woocommerce/issues . This is also where I consider code contributions.
 
 = My question isn't listed here? =
 Please go to the plugin's community support forum at https://wordpress.org/support/plugin/stepselect-for-woocommerce and post a message. Note that support is provided on a voluntary basis and that it can be difficult to troubleshoot, and may require access to your admin area. Needless to say, NEVER include any passwords of your site on a public forum!
